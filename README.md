@@ -18,9 +18,15 @@ This project presents a comprehensive analysis of customer segmentation for a fi
 
 ## Datasets
 - Customer demographic data (e.g., age, income, education).
+
+![image](https://github.com/user-attachments/assets/4fc99809-0b11-4f2f-a4e2-301b68974e21)
+
 - Transactional data (e.g., spending amounts, categories, frequency of credit card usage).
 
-  ![image](https://github.com/user-attachments/assets/4fc99809-0b11-4f2f-a4e2-301b68974e21)
+![image](https://github.com/user-attachments/assets/3d5d136e-0b03-4cae-84a8-a2b7c17b8699)
+
+
+
 
 
 ## Technologies Used
